@@ -2,6 +2,8 @@
 
 This is a simple Ping Pong game created using HTML, CSS, and JavaScript.
 
+**Live Demo**: https://7777satish.github.io/pingpong/
+
 ## Features
 
 - Single-player mode
